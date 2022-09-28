@@ -42,5 +42,8 @@ img {
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-	padding-bottom: 10px;
+}
+
+img[src="resources/images/camp.jpg"] {
+	padding-bottom: 25px;
 }
